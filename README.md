@@ -1,5 +1,5 @@
 # DiCo-NeRF
-![Fig1](https://github.com/ziiho08/CoDiNeRF/assets/68531659/255385bf-2744-4853-9da3-50756a7731af)
+
 
 We integrate CLIP embeddings into the NeRF optimization process, which allows us to leverage semantic information provided by CLIP when synthesizing novel views of fisheye driving scenes. The proposed method, DiCo-NeRF, utilizes the distributional differences between the similarity maps obtained from pre-trained CLIP to improve the color field of the NeRF.
 
