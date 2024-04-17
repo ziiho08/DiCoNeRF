@@ -1,6 +1,6 @@
 # DiCo-NeRF
 <img width="250" height="250" src="https://github.com/ziiho08/DiCoNeRF/assets/68531659/24ede675-b83e-4182-b6c5-a3bc5cc0eb9d"/>
-<img width="400" height="250" src="https://github.com/ziiho08/DiCoNeRF/assets/68531659/32dcf84a-b4d7-4d22-a404-d86fda0cf16f"/>
+<img width="350" height="250" src="https://github.com/ziiho08/DiCoNeRF/assets/68531659/32dcf84a-b4d7-4d22-a404-d86fda0cf16f"/>
 
 
 ![Fig1](https://github.com/ziiho08/DiCoNeRF/assets/68531659/e25f9d3c-c4b7-4aa0-8d13-65c63d2214ec)
