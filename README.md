@@ -19,3 +19,5 @@ To train the DiCo-NeRF, run the command:
 ```
 ns-train diconerf --data [PATH]
 ```
+
+##Citation
