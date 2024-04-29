@@ -21,7 +21,7 @@ ns-train diconerf --data [PATH]
 ```
 
 ## Demo
-<img width="250" height="250" src="https://github.com/ziiho08/DiCoNeRF/assets/68531659/24ede675-b83e-4182-b6c5-a3bc5cc0eb9d"/>
+<img width="250" height="250" src="!https://github.com/ziiho08/DiCoNeRF/assets/68531659/763b9fad-3038-40bb-8810-a18cc582a1cc>
 <img width="250" height="250" src="https://github.com/ziiho08/DiCoNeRF/assets/68531659/a6765e30-ae5d-42c9-86a8-59999455171d"/>
 <img width="350" height="250" src="https://github.com/ziiho08/DiCoNeRF/assets/68531659/32dcf84a-b4d7-4d22-a404-d86fda0cf16f"/>
 
